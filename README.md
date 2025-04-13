@@ -15,7 +15,7 @@
 - ⚙️ Exploring the depths of **DSA, React.js, and AI Agents**.
 - 💬 Ask me about **MERN Stack, CFG-PDA, JavaScript, or Theory of Computation physics concept , linear Algebra , probability , Statistics **.
 - 🧠 I love solving problems, teaching concepts, and making interactive tools for learners.
-- 📫 Reach me at: [tanyaagrAHARI480@gmail.com](mailto:tanyaagrahari480@gmail.com)
+- 📫 Reach me at: [tanyaagrahari480@gmail.com](mailto:tanyaagrahari480@gmail.com)
 
 ---
 
