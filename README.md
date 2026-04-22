@@ -9,9 +9,9 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 I’m a **2nd-year B.Tech (CSE)** student passionate about building real-world tech projects.
+- 🎓 I’m a **3rd-year B.Tech (CSE)** student passionate about building real-world tech projects.
 - 💻 Currently learning **Artificial Intelligence & Machine Learning**.
-- 🔭 Working on: **CFG to PDA Converter**, **AI-Powered E-Commerce Website WITH MULTI AI AGENT**, and **Text-to-Speech App**.
+- 🔭 Working on: ** AI-Powered Medical interaction And Symptom diagonis , Railway Time Table Optimization ,CFG to PDA Converter**, **AI-Powered E-Commerce Website WITH MULTI AI AGENT**, and **Text-to-Speech App**.
 - ⚙️ Exploring the depths of **DSA, React.js, and AI Agents**.
 - 💬 Ask me about **MERN Stack, CFG-PDA, JavaScript, or Theory of Computation physics concept , linear Algebra , probability , Statistics **.
 - 🧠 I love solving problems, teaching concepts, and making interactive tools for learners.
