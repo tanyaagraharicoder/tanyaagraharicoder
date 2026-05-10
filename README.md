@@ -10,21 +10,35 @@
 ### 👩‍💻 About Me
 
 - 🎓 I’m a **3rd-year B.Tech (CSE)** student passionate about building real-world tech projects.
-- 💻 Currently learning **Artificial Intelligence & Machine Learning**.
-- 🔭 Working on: ** AI-Powered Medical interaction And Symptom diagonis , Railway Time Table Optimization ,CFG to PDA Converter**, **AI-Powered E-Commerce Website WITH MULTI AI AGENT**, and **Text-to-Speech App**.
-- ⚙️ Exploring the depths of **DSA, React.js, and AI Agents**.
-- 💬 Ask me about **MERN Stack, CFG-PDA, JavaScript, or Theory of Computation physics concept , linear Algebra , probability , Statistics **.
-- 🧠 I love solving problems, teaching concepts, and making interactive tools for learners.
+- 💻 Currently learning **Artificial Intelligence, Machine Learning & Advanced Web Development**.
+- 🔭 Working on:
+  - ❤️ **Heart Disease Prediction System using Machine Learning**
+  - 🩺 **AI-Powered Medical Interaction & Symptom Diagnosis**
+  - 🚆 **Railway Time Table Optimization**
+  - ⚙️ **CFG to PDA Converter**
+  - 🛒 **AI-Powered E-Commerce Website with Multi AI Agents**
+  - 🗣️ **Text-to-Speech Application**
+- ⚙️ Exploring the depths of **DSA, React.js, AI Agents, Machine Learning, and System Design**.
+- 💬 Ask me about **MERN Stack, Machine Learning, JavaScript, CFG-PDA, Automata, Linear Algebra, Probability, Statistics, Physics Concepts, and Theory of Computation**.
+- 🧠 I love solving problems, teaching concepts, and building interactive applications for learners.
 - 📫 Reach me at: [tanyaagrahari480@gmail.com](mailto:tanyaagrahari480@gmail.com)
-
 ---
-
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,d3,java,cpp,c,py,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,d3,java,cpp,c,py,tensorflow,sklearn,vscode,github" />
 </p>
 
+### 💡 Core Skills
+
+- 🌐 Frontend Development
+- ⚙️ Backend Development
+- 🛢️ Database Management
+- 🤖 Artificial Intelligence
+- 📊 Machine Learning
+- 🧠 Data Structures & Algorithms
+- 🔬 Theory of Computation
+- 📈 Data Analysis
 ---
 
 ## 🚀 Featured Projects
@@ -38,6 +52,18 @@ An interactive tool for Theory of Computation lovers!
 - 🎨 7 Color Themes | Save/Load | Export as PDF
 
 ---
+
+
+### ❤️ [Heart Disease Predictor using Machine Learning](https://github.com/tanyaagraharicoder/Heart-Disease-Predictor-)
+
+AI-powered healthcare prediction system built using **Python, Scikit-Learn, and Streamlit**.
+
+- 🧠 Machine Learning based Heart Disease Prediction
+- 📊 StandardScaler + KNN Classifier
+- 🎨 Modern Glassmorphism Streamlit UI
+- ⚡ Real-time Prediction System
+- 🩺 Interactive Health Dashboard
+- 🚀 Deployable Web Application
 
 ### 🛒 [AI-Powered E-Commerce Website](https://github.com/tanyaagraharicoder)
 Built using **MERN Stack** with smart assistants!
